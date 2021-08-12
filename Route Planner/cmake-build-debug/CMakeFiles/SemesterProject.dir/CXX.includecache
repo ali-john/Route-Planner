@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/abc/OneDrive/Desktop/C++/Data-Structures/SemesterProject/LinkedList.h
+
+C:/Users/abc/OneDrive/Desktop/C++/Data-Structures/SemesterProject/main.cpp
+iostream
+-
+LinkedList.h
+C:/Users/abc/OneDrive/Desktop/C++/Data-Structures/SemesterProject/LinkedList.h
+queue
+-
+list
+-
+iterator
+-
+cstring
+-
+stack
+-
+fstream
+-
+windows.h
+-
+
